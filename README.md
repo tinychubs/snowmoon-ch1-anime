@@ -4,7 +4,7 @@ By Tinychubs (https://x.com/TinychubsX)
 
 A 3:10 anime film of Chapter 1 of [Snowmoon](https://vitalik.eth.limo/snowmoon), with Japanese narration and dialogue and English subtitles. The production plan was built from twenty 10-second scenes.
 
-**Watch (HD):** link coming soon
+**Watch (HD):** https://x.com/TinychubsX/status/2108950807282364472
 
 Made for the "Bring Snowmoon to Life" bounty on poidh (https://poidh.xyz/mainnet/bounty/34). Snowmoon is published under GPL v3, and its author intends for people to make films and anime adaptations as long as the production materials behind them are open-sourced. This repo is that open release.
 
