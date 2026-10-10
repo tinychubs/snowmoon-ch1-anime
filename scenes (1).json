@@ -1,0 +1,788 @@
+[
+  {
+    "scene": 1,
+    "timecode": "0:00 - 0:10",
+    "title": "Meldan establishing shot",
+    "location": "Forest footpath, Kalimar district, Meldan",
+    "assets": "City panels A and B. Gladias (tiny, distant, hood down) in the last beat.",
+    "beats": [
+      {
+        "time": "0-4s",
+        "action": "Slow crane-down from above the tree canopy to reveal clean stone-brick houses merged into trees and plants. Drifting leaves. Title card fades in and out: Meldan, Veridia - 3724 Snowmoon 3."
+      },
+      {
+        "time": "4-8s",
+        "action": "Gentle push-in along the foot path. Small signs for clothing, flowers and food. Nature and buildings feel like one thing."
+      },
+      {
+        "time": "8-10s",
+        "action": "A tiny figure in a dark purple robe walks into frame under the trees, hood down. Hold."
+      }
+    ],
+    "narration": {
+      "id": "N1",
+      "ja": "三七二四年、雪月の三日。ヴェリディアの首都メルダンは、森のように静かに息づいていた。",
+      "en": "Year 3724, the third day of Snowmoon. Meldan, the capital of Veridia, breathed as quietly as a forest."
+    },
+    "dialogue": [],
+    "audio": "Soft forest ambience, distant birdsong, light wind. Gentle acoustic guitar and piano theme starts quietly.",
+    "video_prompt": "Slow crane-down from above the tree canopy to a peaceful district of large clean medieval-style stone-brick houses melded into trees and plants, shop signs for clothing, flowers and food, drifting leaves, a small figure in a dark purple robe walking along the foot path at the end. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 2,
+    "timecode": "0:10 - 0:20",
+    "title": "Gladias walks, Emerald audio plays",
+    "location": "Forest footpath",
+    "assets": "Gladias (everyday outfit + purple robe, hood down), neck band, earpiece, hand device. City panel B.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Side tracking shot of Gladias walking calmly between tall trees, robe swaying."
+      },
+      {
+        "time": "3-6s",
+        "action": "Close-up: he breathes in, eyes closing briefly, lips curving slightly. Earpiece and silk neck band visible."
+      },
+      {
+        "time": "6-10s",
+        "action": "Insert on the hand device in his palm: soft emerald orb pulses with an audio waveform. Behind him, houses dissolve into plants in soft focus."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Emerald (AI)",
+        "delivery": "voice over, faint",
+        "ja": "…空気感染の仕組みと、換気や密度が街全体の感染者数に与える影響の計算法をご説明します",
+        "en": "...Let me explain how airborne infection spreads, and how to calculate what ventilation and density do to citywide case counts."
+      }
+    ],
+    "audio": "Birdsong, footsteps on soft ground. Emerald voice sits softly in the mix like a podcast in one earpiece.",
+    "video_prompt": "Gladias, a calm man in a dark purple hooded robe with hood down and a thin silk band around his neck, walks along a shaded foot path between tall trees, breathes in with closed eyes, then a close-up of a glowing emerald orb icon pulsing on a palm-sized device in his hand. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 3,
+    "timecode": "0:20 - 0:30",
+    "title": "Drone flyover and watch safety check",
+    "location": "Forest footpath",
+    "assets": "Gladias, the toy drone (prop sheet), watch UI. City panel B.",
+    "beats": [
+      {
+        "time": "0-2s",
+        "action": "Small toy drone glides fast over his head from behind, its shadow crossing him. He looks up, startled."
+      },
+      {
+        "time": "2-5s",
+        "action": "Macro close-up on his wrist watch: a green check lights up. Three short UI lines slide in: Toy drone verified / Keeps a safe distance from people / Nothing else shared."
+      },
+      {
+        "time": "5-8s",
+        "action": "Follow the drone as it curves off along a left sidewalk. Clear look at its ball shape with feather-like rotors on three sides."
+      },
+      {
+        "time": "8-10s",
+        "action": "Back to Gladias, relaxed and smiling, lowering his wrist."
+      }
+    ],
+    "narration": {
+      "id": "N2",
+      "ja": "この街では、おもちゃのドローンでさえ、無害であることを証明する。そして、それ以外は何も明かさない。",
+      "en": "In this city even a toy drone proves that it is harmless, and reveals nothing else."
+    },
+    "dialogue": [],
+    "audio": "Soft rotor whirr with a whoosh, gentle confirmation chime for the watch, light ambience continues.",
+    "video_prompt": "A small ball-shaped toy drone with soft feather-like rotors on three sides flies quickly over a man walking on a forest foot path, close-up of his smartwatch lighting a green check with small UI lines, then the drone flying away down a side sidewalk. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 4,
+    "timecode": "0:30 - 0:40",
+    "title": "Boy catches the drone, bench kindness",
+    "location": "Side sidewalks off the footpath",
+    "assets": "Drone boy, two small siblings on tricycles, grandmother + small child, seated couple, the toy drone. City panel B.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Low angle: the drone zips overhead and the boy jumps and snatches it out of the air with one hand. Two younger siblings on tricycles behind him."
+      },
+      {
+        "time": "3-5s",
+        "action": "He holds it up and shouts in triumph."
+      },
+      {
+        "time": "5-10s",
+        "action": "Pan right to another sidewalk. A grandmother with a small child approaches a bench. A seated couple stands up and offers their seats. The grandmother bows her thanks and sits down."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Drone boy",
+        "delivery": "shouting",
+        "ja": "よっしゃー！ぼくの五ポイント！",
+        "en": "Yes! Five points for me!"
+      },
+      {
+        "speaker": "Grandmother",
+        "delivery": "warm",
+        "ja": "ありがとうねえ、ご親切に",
+        "en": "Thank you, dear, how kind."
+      }
+    ],
+    "audio": "Kids laughing, tricycle bells, a happy woodwind motif for the boy, soft warm strings for the bench moment.",
+    "video_prompt": "A sporty boy in a blue and white number 5 jersey leaps and catches a small ball-shaped drone out of the air, two small kids on tricycles behind him; pan to a grandmother and a small child arriving at a bench where a young couple stands up to offer their seats. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 5,
+    "timecode": "0:40 - 0:50",
+    "title": "Sky bridge and the whispered Pause",
+    "location": "Sky bridge over a busy road",
+    "assets": "Gladias, neck band, city panel C.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "The foot path curves upward and smoothly becomes a sky bridge over a busy road with cars, autobuses and delivery vehicles."
+      },
+      {
+        "time": "3-6s",
+        "action": "Gladias steps to the middle; a chilly breeze blows hair and robe into his face."
+      },
+      {
+        "time": "6-8s",
+        "action": "Extreme close-up of his neck band and throat: his lips barely move, only the throat, as he whispers."
+      },
+      {
+        "time": "8-10s",
+        "action": "Reverse wide: the road runs two kilometers then turns right; a forested mountain with castle-tower apartments beyond."
+      }
+    ],
+    "narration": {
+      "id": "N3",
+      "ja": "今日、グラディアスに求められているのは、人間の世界について意見を述べることだった。",
+      "en": "Today, Gladias was asked to give his opinion on the human world."
+    },
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "whisper, silent-speech",
+        "ja": "一時停止。この景色を、少し味わいたいんだ",
+        "en": "Pause. I want to take in this view for a moment."
+      }
+    ],
+    "audio": "Wind rush, traffic hum from below, Emerald audio cuts out on the whisper. Music opens up with a wide orchestral swell.",
+    "video_prompt": "A smooth green footpath rises into a sky bridge over a busy road with cars and autobuses, a man in a dark purple robe stops in the middle in a chilly breeze, close-up of his silk neck band as he silently whispers, then a wide reveal of the long road and a forested mountain with castle-tower apartment buildings. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 6,
+    "timecode": "0:50 - 1:00",
+    "title": "The vote request: Badra St #1103",
+    "location": "Street beside the soundproof barrier",
+    "assets": "Gladias, hand device UI (vote screen), city panel D.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Gladias walks beside a tall green-and-blue soundproof barrier hidden behind trees. His device buzzes; he pulls it out."
+      },
+      {
+        "time": "3-6s",
+        "action": "UI insert: Vote on Badra St #1103 / Five-storey apartment building, blue-grey / slider from -5 to 5 with a Select button."
+      },
+      {
+        "time": "6-8s",
+        "action": "Reverse: the blue-grey five-storey building with tree-lined foot paths, in soft afternoon light."
+      },
+      {
+        "time": "8-10s",
+        "action": "Tax card slides in: Total land tax 1.51%. Quick cut to a tiny aeroplane-shaped headquarters in the far distance, its tax card reading 1.89%."
+      }
+    ],
+    "narration": {
+      "id": "N4",
+      "ja": "市民はくじで選ばれ、建物の美しさに投票する。その評価が、建物の税を決めるのだ。",
+      "en": "Citizens are chosen by lot to vote on how beautiful a building is, and that score decides its tax."
+    },
+    "dialogue": [],
+    "audio": "Device buzz, soft UI clicks, city hum. Light curious pizzicato motif.",
+    "video_prompt": "A man walks beside a tall green and blue painted soundproof barrier hidden by trees, checks a buzzing hand device showing a vote slider for a five-storey blue-grey apartment building, then a shot of the tree-lined building and a small tax card, and a distant aeroplane-shaped office building between the trees. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 7,
+    "timecode": "1:00 - 1:10",
+    "title": "Slider vote and the concert gate",
+    "location": "Street to the concert entrance",
+    "assets": "Gladias (robe, hood up at the end), device UI, gate scanner, city panel E.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Gladias zooms his device at the aeroplane building, smirks, and shakes his head with amusement."
+      },
+      {
+        "time": "3-5s",
+        "action": "Slider close-up: his thumb nudges it only slightly to the right, then taps Select."
+      },
+      {
+        "time": "5-8s",
+        "action": "He arrives at an opening in the barrier and holds his device to a glowing green circle on the gate."
+      },
+      {
+        "time": "8-10s",
+        "action": "Gate lights turn green; he pulls his hood up and walks through as music pours from inside."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "thought",
+        "ja": "あの飛行機ビルの税は…まあ、妥当だな",
+        "en": "That aeroplane building's tax... well, it's fair enough."
+      },
+      {
+        "speaker": "Gate machine",
+        "delivery": "flat voice",
+        "ja": "認証しました。ようこそ",
+        "en": "Verified. Welcome."
+      }
+    ],
+    "audio": "Muffled bass from the concert growing louder, gate confirmation beep, soft crowd noise.",
+    "video_prompt": "A man zooms his hand device toward a far-away aeroplane-shaped building and smirks, thumb nudges a slider slightly to the right, then he scans the device at a glowing green circle on a gate in a tall green and blue barrier, the gate turns green and he pulls up his purple hood and walks through. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 8,
+    "timecode": "1:10 - 1:20",
+    "title": "Concert field, Dreadknot on stage",
+    "location": "Concert field inside the soundproof barrier",
+    "assets": "Gladias in the robe (hood up), crowd extras, stage, singer (Dreadknot). City panel E.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Close-up of Gladias tightening the strap on his face cover just below the nose, hood up."
+      },
+      {
+        "time": "3-6s",
+        "action": "Wide of the large enclosed field: dancers, chatters, a few robed figures, calm watchers."
+      },
+      {
+        "time": "6-10s",
+        "action": "Stage with a growling lead singer under red and orange lights, fists in the air. Gladias pushes through the crowd toward the front."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Dreadknot singer",
+        "delivery": "growl, original placeholder lyric",
+        "ja": "夜を裂け、鉄の嵐となれ！",
+        "en": "Tear the night, become a storm of iron!"
+      }
+    ],
+    "audio": "Full heavy metal band: distorted guitars, double bass drum, growled vocal, crowd roar. Cut all other music.",
+    "video_prompt": "A robed man with his hood up tightens a face-cover strap, wide shot of a large open concert field enclosed by a tall barrier with dancing crowds and a few people in purple robes, a metal singer growling on stage under red and orange lights while the man pushes toward the front. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 9,
+    "timecode": "1:20 - 1:30",
+    "title": "Tax rubric and the debate",
+    "location": "Front of the concert crowd",
+    "assets": "Gladias, rubric UI (Tiers 1 to 5), crowd, stage.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Device screen: a simplified rubric table of Tiers 1 to 5 with tax rates from 0% to 40%."
+      },
+      {
+        "time": "3-7s",
+        "action": "Cross-cut: cheering, dancing crowd, then the stage. Floating words appear over the scene: Advocating vs Showcasing."
+      },
+      {
+        "time": "7-10s",
+        "action": "Gladias looks uneasy: a brief flash of stern authority figures (silhouetted Sentinels) preferring a softer society, then back to his face."
+      }
+    ],
+    "narration": {
+      "id": "N5",
+      "ja": "グラディアスは舵取り会の見習い。彼の判断は、今まさに採点されている。",
+      "en": "Gladias is an apprentice of the Order of Steering, and his judgment was being scored right at that moment."
+    },
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "thought",
+        "ja": "暴力を煽っているのか、それとも見せ物にしているだけなのか…",
+        "en": "Are they inciting violence, or just putting it on as a show...?"
+      }
+    ],
+    "audio": "Concert muffled slightly as Gladias concentrates, his thought line and narrator sit above the mix.",
+    "video_prompt": "Close-up of a palm-sized device showing a five-tier tax rubric, cross-cut with a joyful cheering metal concert crowd, floating text reading advocating versus showcasing, and a worried man in a purple hood weighing his decision. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 10,
+    "timecode": "1:30 - 1:40",
+    "title": "Prediction score and the Tier 3 vote",
+    "location": "Front of the concert crowd",
+    "assets": "Gladias, device UI (score gauge, Acolyte chat, tier buttons).",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Score gauge fills to 92 with a bold line at 90: the deadline for becoming a Sentinel."
+      },
+      {
+        "time": "3-6s",
+        "action": "Chat panel: two Acolytes argue, one for Tier 3 and one for Tier 4. Small floating numbers and fractions orbit Gladias's head as he computes his odds."
+      },
+      {
+        "time": "6-8s",
+        "action": "The band finishes a song; the crowd roars. He looks at the joyful faces and steels himself."
+      },
+      {
+        "time": "8-10s",
+        "action": "His thumb taps Tier 3. A brief, proud smile."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "thought",
+        "ja": "よし、賭けてみよう。ティア3だ",
+        "en": "Alright, I'll take the gamble. Tier 3."
+      }
+    ],
+    "audio": "Heartbeat-like bass pulse under the crowd, a cymbal swell, and a quiet UI click on the vote.",
+    "video_prompt": "A device shows a prediction score of 92 with a marker at 90 and a small chat between two apprentices, small floating math symbols swirl around a man in a purple hood, the band ends a song with a roaring crowd, his thumb taps a Tier 3 button and he smiles proudly. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 11,
+    "timecode": "1:40 - 1:50",
+    "title": "\"It's an Order member!\"",
+    "location": "Concert crowd",
+    "assets": "Gladias, heckler (voice + hand in frame), crowd, decoy in purple robe. City panel E.",
+    "beats": [
+      {
+        "time": "0-2s",
+        "action": "Hard cut from the proud smile to frozen shock."
+      },
+      {
+        "time": "2-5s",
+        "action": "A voice from behind yells. The crowd turns their heads toward him one by one."
+      },
+      {
+        "time": "5-8s",
+        "action": "Fast POV: Gladias scans the field and locks on the nearest exit."
+      },
+      {
+        "time": "8-10s",
+        "action": "A robed man bolts for the fire exit on the right. Dozens of hand devices point at him."
+      }
+    ],
+    "narration": {
+      "id": "N6",
+      "ja": "だが会の者は、正体を隠さねばならない。見破った者には、賞金が支払われる。",
+      "en": "But members of the Order must stay hidden, and whoever unmasks one collects a bounty."
+    },
+    "dialogue": [
+      {
+        "speaker": "Heckler (off-screen)",
+        "delivery": "shouting",
+        "ja": "おい、みんな！会の人間がいるぞ！",
+        "en": "Hey, everyone! There's an Order member here!"
+      }
+    ],
+    "audio": "Music drops to muffled reverb, a sharp sting, then crowd murmur and phone shutter sounds.",
+    "video_prompt": "A man in a purple hood freezes in shock as a shout rings out behind him and the crowd turns, fast POV scanning for an exit, another robed man sprints toward a fire exit on the right while many people raise hand devices to film him. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 12,
+    "timecode": "1:50 - 2:00",
+    "title": "Burly man and the Arctic Emperor trick",
+    "location": "Concert crowd",
+    "assets": "Gladias, burly man, crowd.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Gladias turns to run and finds a large burly man pointing a hand device straight at his face."
+      },
+      {
+        "time": "3-6s",
+        "action": "Slow push-in on Gladias's eyes. His expression shifts from panic to a schoolboy's mischievous glint."
+      },
+      {
+        "time": "6-8s",
+        "action": "He snaps his head and points off-screen with fake excitement."
+      },
+      {
+        "time": "8-10s",
+        "action": "The man turns to look, confused."
+      }
+    ],
+    "narration": {
+      "id": "N7",
+      "ja": "思慮深い哲学者の仮面が外れ、いたずら好きの少年が顔を出した。",
+      "en": "The thoughtful philosopher's mask slipped, and a mischievous boy showed his face."
+    },
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "excited, fake",
+        "ja": "見ろ！北極皇帝の新しい声明じゃないか？",
+        "en": "Look! Isn't that a new statement from the Arctic Emperor?"
+      }
+    ],
+    "audio": "Music hard-cuts to silence for the push-in, then a small comic sting on the trick.",
+    "video_prompt": "A robed man turns and faces a huge burly man aiming a hand device at his face, slow push-in as the robed man's frightened eyes turn mischievous, he points excitedly off-screen and the burly man looks away in confusion. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 13,
+    "timecode": "2:00 - 2:10",
+    "title": "Snatch, delete, throw",
+    "location": "Concert crowd",
+    "assets": "Gladias, burly man, snatched hand device, device UI.",
+    "beats": [
+      {
+        "time": "0-2s",
+        "action": "Gladias's hand snatches the device from the man's arm."
+      },
+      {
+        "time": "2-5s",
+        "action": "He spins away and barks a command at the stolen device."
+      },
+      {
+        "time": "5-7s",
+        "action": "Device screen: it deletes files and briefly shows thumbnails, one of them is Gladias's face at bottom right. Screen goes black."
+      },
+      {
+        "time": "7-10s",
+        "action": "He throws the device high in the air. The burly man's eyes and hands follow it upward."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "quick, commanding",
+        "ja": "直近一時間の音声・画像・動画をすべて削除。再起動",
+        "en": "Delete all audio, images and video from the last hour. Reboot."
+      },
+      {
+        "speaker": "Stolen device",
+        "delivery": "flat voice",
+        "ja": "四件のファイルを削除しました",
+        "en": "Four files deleted."
+      }
+    ],
+    "audio": "Fast percussion hits, device blip, a rising whoosh for the throw.",
+    "video_prompt": "A robed man snatches a hand device from a burly man's arm, spins away and speaks a command, the screen flashes thumbnails including his face then goes black, he throws the device high into the air while the burly man watches it fly. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 14,
+    "timecode": "2:10 - 2:20",
+    "title": "Run in heels, hop on the bus",
+    "location": "Concert field, exit, street, bus stop",
+    "assets": "Gladias (purple robe, high-heeled uneven-soled shoes), crowd, autobus. City panels E and F.",
+    "beats": [
+      {
+        "time": "0-4s",
+        "action": "Low tracking shot of his purple heeled shoes with uneven soles wobbling as he runs, robe flapping, crowd distracted by the fire exit chase."
+      },
+      {
+        "time": "4-7s",
+        "action": "He reaches the barrier exit and slips out while heads are still turned."
+      },
+      {
+        "time": "7-10s",
+        "action": "He jumps onto a local autobus just as the doors close."
+      }
+    ],
+    "narration": null,
+    "dialogue": [],
+    "audio": "Fast driving music, crowd fading away, a bus chime and door hiss to end.",
+    "video_prompt": "Low tracking shot of dark purple high-heeled shoes with uneven soles running, a robed man weaves through a distracted crowd, slips through a gate in a tall barrier and jumps onto a local autobus as the doors close. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 15,
+    "timecode": "2:20 - 2:30",
+    "title": "Bus ads and a smile",
+    "location": "Autobus interior",
+    "assets": "Gladias (hood down), two robed passengers, teenager with backpack, two ad posters. City panel F.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Nearly empty bus: two robed passengers on the left (faces hidden), a teenager with a backpack on the right. Gladias sits and lowers his hood."
+      },
+      {
+        "time": "3-6s",
+        "action": "Poster 1: a classroom with a child, a middle-aged woman and an elderly man reading together. Text: Learning is a lifelong duty. School ends at 20, education never does."
+      },
+      {
+        "time": "6-8s",
+        "action": "Poster 2: a yellow-and-green drink bottle. Text: Free of over 2,000 known poisons."
+      },
+      {
+        "time": "8-10s",
+        "action": "Close-up of Gladias smiling at the poster."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "thought",
+        "ja": "世の中には、もっと楽しさが必要だよな",
+        "en": "The world could use a bit more fun."
+      }
+    ],
+    "audio": "Quiet bus hum, soft warm music returns, a tiny sparkle sound on his smile. Poster text is on-screen only, no voice.",
+    "video_prompt": "A nearly empty clean autobus with two hooded passengers and a teenager with a backpack, a man in a purple robe lowers his hood and looks at two wall posters: a family-of-generations learning scene and a yellow-and-green drink bottle ad, then smiles warmly. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 16,
+    "timecode": "2:30 - 2:40",
+    "title": "Home arrival, Zven hug",
+    "location": "Family house, evening",
+    "assets": "Gladias, Seila, Zven, Febric, house exterior/interior. City panel G.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Warm evening exterior of the family house. Gladias opens the door."
+      },
+      {
+        "time": "3-6s",
+        "action": "He calls out. Seila steps out of her room."
+      },
+      {
+        "time": "6-8s",
+        "action": "Zven leaps down the stairs three steps at a time and runs into Gladias for a hug."
+      },
+      {
+        "time": "8-10s",
+        "action": "Febric follows slowly, his hand device attached by a cable to a compute box in the other hand."
+      }
+    ],
+    "narration": {
+      "id": "N8",
+      "ja": "家では家族が待っていた。二人は自分たちの子、あとの二人は共同家族の子だ。",
+      "en": "At home his family was waiting: two children of his own, and two from their co-family."
+    },
+    "dialogue": [
+      {
+        "speaker": "Gladias",
+        "delivery": "calling",
+        "ja": "セイラ、いるかい？",
+        "en": "Seila, are you home?"
+      },
+      {
+        "speaker": "Seila",
+        "delivery": "from her room",
+        "ja": "ちょうどブログを書き終えたところよ",
+        "en": "I just finished writing my blog post."
+      },
+      {
+        "speaker": "Zven",
+        "delivery": "shouting",
+        "ja": "パパが帰ってきたー！",
+        "en": "Dad's home!"
+      }
+    ],
+    "audio": "Door creak, warm home ambience, footsteps on stairs, a soft warm theme.",
+    "video_prompt": "Evening exterior of a cozy stone-and-wood house, a man opens the front door and calls inside, a woman steps out of a room, a small boy jumps down stairs three steps at a time and hugs the man, a tall teenager follows carrying a hand device on a cable to a compute box. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 17,
+    "timecode": "2:40 - 2:50",
+    "title": "Food truck order",
+    "location": "Family dining area",
+    "assets": "Gladias, Seila, Febric, Zven, hand device UI (order screen).",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Seila holds up her device and suggests the food truck arriving in seven minutes."
+      },
+      {
+        "time": "3-6s",
+        "action": "Febric calls out his number, Zven shouts his number and does a victory fist."
+      },
+      {
+        "time": "6-8s",
+        "action": "Gladias picks his own number with a shrug."
+      },
+      {
+        "time": "8-10s",
+        "action": "Seila taps the order button; a cute confirmation icon."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Seila",
+        "delivery": "friendly",
+        "ja": "夕飯は、七分後に来るジェゴのフードトラックにしない？",
+        "en": "How about dinner from the Dzego food truck? It arrives in seven minutes."
+      },
+      {
+        "speaker": "Febric",
+        "delivery": "casual",
+        "ja": "ぼく、四番！",
+        "en": "Number four for me!"
+      },
+      {
+        "speaker": "Zven",
+        "delivery": "excited",
+        "ja": "五番！ぼくの勝ち！",
+        "en": "Number five, I win!"
+      },
+      {
+        "speaker": "Gladias",
+        "delivery": "relaxed",
+        "ja": "じゃあ、僕は十三番にしよう",
+        "en": "Then I'll have number thirteen."
+      }
+    ],
+    "audio": "Cozy kitchen ambience, light comedic music.",
+    "video_prompt": "A warm dining area where a woman holds up a hand device and smiles, a tall teen and a small boy call out numbers with the boy pumping his fist, the father shrugs and picks his number, the woman taps an order button with a cheerful confirmation icon. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 18,
+    "timecode": "2:50 - 3:00",
+    "title": "Lily and the history exam",
+    "location": "Family living room",
+    "assets": "Lily, Seila, Gladias, couch, bathroom door, hand device (game screen).",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "The bathroom door opens and Lily walks out, eyes on the floor."
+      },
+      {
+        "time": "3-6s",
+        "action": "Seila asks what happened; Lily answers with a flat voice."
+      },
+      {
+        "time": "6-8s",
+        "action": "Seila hugs her; Lily turns her face away."
+      },
+      {
+        "time": "8-10s",
+        "action": "Lily runs to the couch and dives into a game on her device while Gladias and Seila exchange a worried glance."
+      }
+    ],
+    "narration": {
+      "id": "N9",
+      "ja": "あと四日で、子どもたちは半年間、もうひとつの家族のもとへ行く。",
+      "en": "In four days the children would go to live with the other family for half a year."
+    },
+    "dialogue": [
+      {
+        "speaker": "Lily",
+        "delivery": "flat, muffled",
+        "ja": "歴史のテスト、六十点。…まあ、いいけど",
+        "en": "Sixty percent on the history test. ...Whatever."
+      },
+      {
+        "speaker": "Seila",
+        "delivery": "gentle",
+        "ja": "全部が得意じゃなくてもいいのよ",
+        "en": "You don't have to be good at everything."
+      }
+    ],
+    "audio": "Bathroom door click, a soft sad piano motif, faint game sounds from the device.",
+    "video_prompt": "A quiet tween girl in a lavender hoodie walks out of a bathroom looking at the floor, her mother gently hugs her but she turns her face away, she sits on the couch and disappears into a game on her device as her parents share a worried look. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 19,
+    "timecode": "3:00 - 3:10",
+    "title": "Family dinner and plans",
+    "location": "Family dining table",
+    "assets": "All five family members, food truck bag, food boxes with numbers, city panel G.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "The doorbell rings. Gladias opens the door and carries a bag of food boxes to the table."
+      },
+      {
+        "time": "3-6s",
+        "action": "He hands each person the box with their number. Zven happily tears his open."
+      },
+      {
+        "time": "6-8s",
+        "action": "Lily quietly joins the table. Everyone eats, warm light overhead."
+      },
+      {
+        "time": "8-10s",
+        "action": "A close two-shot of Zven and Febric as they talk about Uncle Vil, then a soft laugh."
+      }
+    ],
+    "narration": null,
+    "dialogue": [
+      {
+        "speaker": "Seila",
+        "delivery": "thoughtful",
+        "ja": "私はフリータウンに行こうかな",
+        "en": "I think I'll go to Freetown."
+      },
+      {
+        "speaker": "Gladias",
+        "delivery": "relaxed",
+        "ja": "僕は森を歩くよ",
+        "en": "I'll go walk in the forest."
+      },
+      {
+        "speaker": "Zven",
+        "delivery": "bright",
+        "ja": "ヴィルおじさん、大好き！",
+        "en": "I love Uncle Vil!"
+      },
+      {
+        "speaker": "Febric",
+        "delivery": "insisting",
+        "ja": "ぼくにとっては“パパ”だよ！",
+        "en": "To me he's Dad!"
+      }
+    ],
+    "audio": "Cutlery, chatter, warm acoustic guitar.",
+    "video_prompt": "A cozy dinner table where a father hands numbered food boxes to his family, a quiet girl joins, the family eats under warm light, a small boy and a tall teen banter with bright smiles. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  },
+  {
+    "scene": 20,
+    "timecode": "3:10 - 3:20",
+    "title": "The anonymous message",
+    "location": "Family dining table",
+    "assets": "Gladias, hand device (message card), family in the background.",
+    "beats": [
+      {
+        "time": "0-3s",
+        "action": "Warm shot of the family eating together. Soft laughter."
+      },
+      {
+        "time": "3-6s",
+        "action": "Gladias's device buzzes on the table. He picks it up and the smile fades."
+      },
+      {
+        "time": "6-8s",
+        "action": "Extreme close-up on the screen: a message card appears from Anonymous with a verified reputation badge, followed by a second message."
+      },
+      {
+        "time": "8-10s",
+        "action": "Zoom into his stunned eyes as the music cuts out. Hard cut to black."
+      }
+    ],
+    "narration": {
+      "id": "N10",
+      "ja": "そのとき、彼の秘密を知る誰かが、静かに連絡をよこした。",
+      "en": "And then someone who knew his secret quietly reached out."
+    },
+    "dialogue": [
+      {
+        "speaker": "On-screen message 1",
+        "delivery": "text only",
+        "ja": "コンサートで見かけました。あなたが会の人間だと知っています",
+        "en": "I saw you at the concert. I know you are in the Order."
+      },
+      {
+        "speaker": "On-screen message 2",
+        "delivery": "text only",
+        "ja": "通報して賞金を得るつもりはありません。ただ、お願いがあります",
+        "en": "I will not report you for the bounty. But I have a request."
+      }
+    ],
+    "audio": "Warm music slowly thins, device buzz, a low drone, then silence at the cut to black.",
+    "video_prompt": "A father at a warm family dinner table looks down as his hand device buzzes, close-up of two anonymous message cards with a verified badge, extreme close-up of his stunned eyes, the sounds fade to silence and the screen cuts to black. Modern Japanese anime film style, soft cel shading, painterly backgrounds, 16:9, 10 seconds."
+  }
+]
